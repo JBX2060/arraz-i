@@ -145,13 +145,13 @@ const global = {
     { visible: 0, id: 'oc', type: '0unk', name: 'Portal 2TDM',                code: 'glitch-virginia',    at: 'arrax-2tdmmaze.glitch.me', secure: 1, prefer: false },
      { visible: 0, id: 'la', type: '0unk', name: '3 Team Mothership',                code: 'glitch-virginia',    at: 'aarrax-mot.glitch.me', secure: 1, prefer: false },
   { visible: 0, id: 'c9', type: '0unk', name: 'Maze Mothership',                      code: 'glitch-virginia', at: 'arrax-mot2.glitch.me', secure:1, prefer: false },
- { visible: 0, id: 'bvm', type: '0unk', name: 'Capture The Flag',                      code: 'buyvm-kkkkkk', at: 'arraz-ctf.glitch.me', secure:1, prefer: false },
- { visible: 0, id: 'kk', type: '0unk', name: '2 TDM',                      code: 'os-us', at: 'bbg-arraz.glitch.me', secure:1, prefer: false },
-    { visible: 0, id: 'sb1', type: '1unk', name: 'Sandbox',                      code: 'linode-us', at: 'arraz-sandbox.glitch.me', secure:1, prefer: false },
-     { visible: 0, id: 'sb2', type: '1unk', name: 'Testing',                      code: 'glitch-us', at: 'arraz-test.glitch.me', secure:1, prefer: true, testing: true },
+ { visible: 0, id: 'bvm', type: '0unk', name: 'Domination',                      code: 'buyvm-kkkkkk', at: 'arraz-dom.glitch.me', secure:1, prefer: false },
+ { visible: 0, id: 'kk', type: '0unk', name: 'Capture the Flag',                      code: 'os-us', at: 'arraz-ctf.glitch.me', secure:1, prefer: false },
+    { visible: 0, id: 'sb1', type: '1unk', name: 'Naval Raid',                      code: 'linode-us', at: 'bbg-arraz.glitch.me', secure:1, prefer: false },
+     { visible: 0, id: 'sb2', type: '1unk', name: 'D-Day',                      code: 'glitch-us', at: 'arraz-test.glitch.me', secure:1, prefer: true, testing: true },
       { visible: 0, id: 'event', type: '1unk', name: 'Diep.io Domination',                      code: 'dvi-gbl', at: 'arraz-events.glitch.me', secure:1, prefer: true, featured: true },
- { visible: 0, id: 'tw', type: '1unk', name: 'Territory War',                      code: 'vultr-gbl', at: 'arraz-territory.glitch.me', secure:1, prefer: false, testing: true },
-
+ { visible: 0, id: 'tw', type: '1unk', name: 'Cool Mode',                      code: 'vultr-gbl', at: 'arraz-territory.glitch.me', secure:1, prefer: false, testing: true },
+ { visible: 0, id: 'tw', type: '1unk', name: 'Carras server' ,                      code: 'vultr-gbl', at: '', secure:1, prefer: false, testing: true },
   ]
   
     .map((data, i) => ({ data, i }))
