@@ -147,8 +147,9 @@ const global = {
  { visible: 0, id: 'tw', type: '1unk', name: 'Cool Mode',                      code: 'vultr-gbl', at: 'arraz-territory.glitch.me', secure:1, prefer: false, testing: true },
  { visible: 0, id: 'tw', type: '1unk', name: 'Twinception Remake' ,                      code: 'os-us', at: 'remake2.glitch.me', secure:1, prefer: false, testing: true },
    { visible: 0, id: 'tw', type: '1unk', name: 'HellerTech server Remake' ,                      code: 'glitch-virginia', at: 'test-arras2.glitch.me', secure:1, prefer: false, testing: true },
-      { visible: 0, id: 'tw', type: '1unk', name: 'another server' ,                      code: 'glitch-virginia', at: 'ex-fishy-working.glitch.me', secure:1, prefer: false, testing: true}, 
- { visible: 0, id: 'tw', type: '1unk', name: 'Clarise server' ,                      code: 'os-us', at: 'farmer.glitch.me', secure:1, prefer: false, testing: true },
+   { visible: 0, id: 'tw', type: '1unk', name: 'Clarise server' ,                      code: 'glitch-virginia', at: 'farmer.glitch.me', secure:1, prefer: false, testing: true },
+      { visible: 0, id: 'tww', type: '1unk', name: 'another server' ,                      code: 'os-us', at: 'serversssss.glitch.me', secure:0, prefer: false, testing: true}, 
+
   ]
   
     .map((data, i) => ({ data, i }))
