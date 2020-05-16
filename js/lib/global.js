@@ -146,10 +146,9 @@ const global = {
  { visible: 0, id: 'bvm', type: '0unk', name: 'Domination',                      code: 'buyvm-kkkkkk', at: 'arraz-dom.glitch.me', secure:1, prefer: false },
  { visible: 0, id: 'tw', type: '1unk', name: 'Cool Mode',                      code: 'vultr-gbl', at: 'arraz-territory.glitch.me', secure:1, prefer: false, testing: true },
  { visible: 0, id: 'tw', type: '1unk', name: 'Twinception Remake' ,                      code: 'os-us', at: 'remake2.glitch.me', secure:1, prefer: false, testing: true },
-   { visible: 0, id: 'tw', type: '1unk', name: 'HellerTech server Remake' ,                      code: 'glitch-virginia', at: 'test-fishyy2-remak.glitch.me', secure:1, prefer: false, testing: true },
-   { visible: 0, id: 'tw', type: '1unk', name: 'Clarise server' ,                      code: 'glitch-virginia', at: 'farmer.glitch.me', secure:1, prefer: false, testing: true },
+   { visible: 0, id: 'tw', type: '1unk', name: 'HellerTech server Remake' ,                      code: 'glitch-virginia', at: 'test-arras2.glitch.me', secure:1, prefer: false, testing: true },
       { visible: 0, id: 'tw', type: '1unk', name: 'another server' ,                      code: 'glitch-virginia', at: 'ex-fishy-working.glitch.me', secure:1, prefer: false, testing: true}, 
-
+ { visible: 0, id: 'tw', type: '1unk', name: 'Clarise server' ,                      code: 'os-us', at: 'farmer.glitch.me', secure:1, prefer: false, testing: true },
   ]
   
     .map((data, i) => ({ data, i }))
