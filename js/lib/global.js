@@ -182,4 +182,4 @@ export { global as global };
  // { visible: 0, id: 'sp', type: '0unk', name: 'Space',                code: 'glitch-virginia',    at: 'arrax-space.glitch.me', secure: 1, prefer: false },
  //  { visible: 0, id: 'nc', type: '0unk', name: 'Naval Combat',                code: 'glitch-ocean',    at: 'arraz-nc.glitch.me', secure: 1, prefer: false },
  //{ visible: 0, id: 'mm', type: '0unk', name: 'Multimode',                code: 'glitch-virginia',    at: 'arraz-ultimate.glitch.me', secure: 1, prefer: false },
-  // { visible: 0, id: 'od', type: '0unk', name: 'Open Domination',                      code: 'vultr-us', at: 'arrax-odom.glitch.me', secure:1, prefer: true },
+  // { visible: 0, id: 'od', type: '0unk', name: 'Open Domination',                      code: 'vultr-us', at: 'arrax-odom.glitch.me', secure:1, prefer: true },z
